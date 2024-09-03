@@ -20,6 +20,7 @@ header {
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 20);
 }
 
 h1, h2 {
@@ -49,10 +50,11 @@ a{
     display:contents;
 }
 #imagem {
-    width: 350px;
-    height: 500px;
+    width: 300px;
+    height: 400px;
     margin-bottom: 20px;
     transition: opacity 0.5s ease-in-out;   
     align-items: center;
     border-radius: 12px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 20);
 }
